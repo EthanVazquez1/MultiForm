@@ -33,10 +33,10 @@
             // 
             // btnShowForm
             // 
-            this.btnShowForm.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnShowForm.Location = new System.Drawing.Point(445, 286);
+            this.btnShowForm.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnShowForm.Location = new System.Drawing.Point(311, 235);
             this.btnShowForm.Name = "btnShowForm";
-            this.btnShowForm.Size = new System.Drawing.Size(107, 64);
+            this.btnShowForm.Size = new System.Drawing.Size(319, 104);
             this.btnShowForm.TabIndex = 0;
             this.btnShowForm.Text = "Show Form";
             this.btnShowForm.UseVisualStyleBackColor = true;
