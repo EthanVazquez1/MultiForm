@@ -40,6 +40,7 @@
             this.btnShowForm.TabIndex = 0;
             this.btnShowForm.Text = "Show Form";
             this.btnShowForm.UseVisualStyleBackColor = true;
+            this.btnShowForm.Click += new System.EventHandler(this.btnShowForm_Click);
             // 
             // Form1
             // 
